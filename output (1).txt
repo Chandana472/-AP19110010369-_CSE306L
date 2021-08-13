@@ -1,0 +1,34 @@
+ 
+123 : number
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+== : relational operator EQ 
+5 : number
+. 
+876 : number
+;
+ a : identifier
+ b : identifier
+>= : relational operator GE
+<= : relational operator LE
+== : relational operator EQ
+< : relational operator LT
+> : relational operator GT
+!= : relational operator NEQ
+ g : identifier
+ g : identifier
+ main : identifier
+ a : identifier
+ b : identifier
+ comment did not close
+ Symbol Table
+ identifier 1 - main
+ identifier 2 - a
+ identifier 3 - b
+ identifier 4 - g
