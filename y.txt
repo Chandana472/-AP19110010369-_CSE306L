@@ -1,0 +1,42 @@
+ 
+ include is an identifier 
+ < is a relational operator less than 
+ stdio is an identifier 
+ h is an identifier 
+ > is a relational operator greater than 
+ int is an identifier 
+ main is an identifier 
+ int is an identifier 
+ number1 is an identifier 
+ number2 is an identifier 
+ sum is an identifier 
+ comment start
+ 
+ comment end
+ 
+ printf is an identifier 
+ Enter is an identifier 
+ two is an identifier 
+ integers is an identifier 
+ scanf is an identifier 
+ d is an identifier 
+ d is an identifier 
+ number1 is an identifier 
+ number2 is an identifier 
+ single line comment
+
+ 
+ sum is an identifier 
+ = is assignment opertor 
+ number1 is an identifier 
+ number2 is an identifier 
+ printf is an identifier 
+ d is an identifier 
+ d is an identifier 
+ = is assignment opertor 
+ d is an identifier 
+ number1 is an identifier 
+ number2 is an identifier 
+ sum is an identifier 
+ return is an identifier 
+ 0 is an integer
